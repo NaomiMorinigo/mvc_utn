@@ -1,0 +1,14 @@
+.table th, .table td {
+    text-align: center;
+}
+
+.img-thumbnail {
+    border-radius: 0.25rem;
+    border: 1px solid #dee2e6;
+}
+
+.pizza-img {
+    width: 120px;
+    height: 100px; 
+    object-fit: cover;
+}
